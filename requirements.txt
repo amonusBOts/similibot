@@ -12,3 +12,4 @@ TgCrypto==1.2.3
 urllib3==1.26.12
 validators
 fake-agent
+bs4
